@@ -5,6 +5,7 @@ This directory contains hands-on industrial automation and OT/ICS security labs 
 ## Labs
 
 - [Lab 01 — Tank-Level Control Using OpenPLC](Lab-01-Tank-Level-Control/README.md): Structured Text control logic, simulated pump command, debugger-based testing, and hysteresis.
+- [Lab 02 — Tank-Level Alarms and Sensor-Fault Detection](Lab-02-Alarms-and-Sensor-Faults/README.md): Process alarms, input-range validation, sensor-fault detection, and debugger-based tests.
 
 ## Environment
 
