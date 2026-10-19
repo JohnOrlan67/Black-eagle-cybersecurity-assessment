@@ -6,6 +6,7 @@ This directory contains hands-on industrial automation and OT/ICS security labs 
 
 - [Lab 01 — Tank-Level Control Using OpenPLC](Lab-01-Tank-Level-Control/README.md): Structured Text control logic, simulated pump command, debugger-based testing, and hysteresis.
 - [Lab 02 — Tank-Level Alarms and Sensor-Fault Detection](Lab-02-Alarms-and-Sensor-Faults/README.md): Process alarms, input-range validation, sensor-fault detection, and debugger-based tests.
+- [Lab 03 — Tank Dynamics and Hysteresis](Lab-03-Tank-Dynamics-and-Hysteresis/README.md): Automatic simulated filling and draining, hysteresis, and considerations around PLC scan order.
 
 ## Environment
 
@@ -15,7 +16,7 @@ This directory contains hands-on industrial automation and OT/ICS security labs 
 
 ## Scope and evidence
 
-Exercises in this portfolio are documented according to what was actually configured and tested. Simulation results are not presented as tests of physical industrial equipment. Evidence screenshots should be stored within each lab's `Evidence/` directory.
+Exercises in this portfolio are documented according to what was actually configured and tested. Simulation results are not presented as tests of physical industrial equipment. Evidence screenshots should be stored within each lab's `Evidence/` directory. Lab 03's screenshots have not yet been added.
 
 ## Roadmap
 
