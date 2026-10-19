@@ -43,6 +43,10 @@ The alarm and sensor-fault behaviour remains as documented in Lab 02.
 
 The 20% and 80% thresholds are illustrative values for this exercise, not recommended setpoints for a real process.
 
+## Source code
+
+The complete Structured Text program is available in [\`Tank_Dynamics_and_Hysteresis.st\`](Tank_Dynamics_and_Hysteresis.st). It combines the Lab 02 alarm and sensor-fault logic with the tank process model below.
+
 ## 5. Hysteresis logic
 
 ```iecst
